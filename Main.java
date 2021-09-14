@@ -27,15 +27,5 @@ class Main {
     
     
     
-    /*while (number >=0) 
-    {
-      System.out.println(number);
-      number -= 1;
-    }
-    else if (number <=0)
-    {
-      System.out.println(number);
-      number += 1;
-    }*/
     }
   }
